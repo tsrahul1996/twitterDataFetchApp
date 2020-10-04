@@ -61,7 +61,7 @@ The  executable JAR can be found in target folder can be used to deploy in serve
 
 The Default sever configured for this project is Apache tomcat. If you want to re configure it to any other server change pom.xml file server configuration accordingly.
 
-## Test your new Chatbot
+## Test you Application
 
 open http://localhost:8090/home
 
