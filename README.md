@@ -35,6 +35,7 @@ https://developer.twitter.com/en/docs/apps/overview
 The credentials from your twitter dev account (apiKey and apiKeySecret) are configured in order to get your app working.
 
 tweetFetcher.apiKey = ${your apiKey}
+
 tweetFetcher.apiKeySecret =  ${your apiKeySecret}
 
 The configuration is located in src/resources/application.properties.
@@ -75,11 +76,6 @@ By choosing the above condition using drop down provided and value in given text
 ## Authors
 
 * **Rahul TS** 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
